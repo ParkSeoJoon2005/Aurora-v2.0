@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://wallpaperscave.com/images/original/18/04-25/anime-one-punch-man-44886.jpg">
+  <img src="https://telegra.ph/file/0191a43f4f98af796f07a.jpg">
 </p>
 
-# Saitama Robot 
+# Aurora-v2.0 (Nayeon)
 
 <p align="center">
-- x -|│  “	Just some code who is a bot for fun. ”  │| - x -
+- x -|│  “	│| - x -
 </p>
 
 <p align="center">
@@ -42,11 +42,19 @@
 
 Saitama is a simple one-punch solution to your group management needs and has become one of the most prominently kanged bots around telegram, purely weeab themed.
 
-* Bot Link:  <a href="https://t.me/SaitamaRobot" alt="Saitama Robot"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-SaitamaRobot-blue" /> </a>
-* News channel: <a  href="https://t.me/OnePunchUpdates" alt="One Punch Updates"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-One%20Punch%20Updates-9cf" /> </a>
+## Depoly To Heroku  
+    
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/parkseojoon2005/Aurora-v2.0)  
 
-Should you be forking this repo then do not forget to star it - <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/animekaizoku/saitamarobot?color=white&label=%F0%9F%8C%9F%20star">
+* Bot Link:  <a href="https://t.me/Aurorav2.0_Bot" alt="Saitama Robot"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-SaitamaRobot-blue" /> </a>
+* News channel: <a  href="https://t.me/Hermione_Updates" alt="One Punch Updates"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-One%20Punch%20Updates-9cf" /> </a>
+
+Should you be forking this repo then do not forget to star it - <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Parkseojoon2005/Aurora?color=white&label=%F0%9F%8C%9F%20star">
 
 ## Credits 📍
-* Well, it's all in the commit history 
-Feel free to open pull requests should any be missing.
+* Saitama Robot  
+* This Is A Modified And Updated Ver Of Saitama
+* Rewritten...
+* And More Updates Soon
+
+
