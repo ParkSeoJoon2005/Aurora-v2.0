@@ -1,6 +1,7 @@
 {
       "name": "Aurora-v2.0",
-      "description": "An Astronomy  themed Telegram group management bot.",
+      "description": "An Astronomy  Themed Telegram group management bot.",
+       "logo": "https://telegra.ph/file/4d875f621e824256d29ba.jpg",
       "keywords": [
          "telegram",
          "astronomy",
