@@ -52,7 +52,8 @@ Aurora is a simple Bot In Telegram That Help For Astronomy Groups.Spacially Andr
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/parkseojoon2005/Aurora-v2.0)  
 
 ## Deploy To Railway 
-- [Railway](https://railway.app/dashboard)
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app)
 
 * Bot Link:  <a href="https://t.me/Aurorav2.0_Bot" alt="Saitama Robot"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-Aurora-blue" /> </a>
 * News channel: <a  href="https://t.me/Hermione_Updates" alt="One Punch Updates"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-Her%20Aurora%20Updates-9cf" /> </a>
