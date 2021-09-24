@@ -1,14 +1,14 @@
 {
-      "name": "SaitamaRobot",
-      "description": "An Anime themed Telegram group management bot.",
+      "name": "Aurora-v2.0",
+      "description": "An Astronomy  themed Telegram group management bot.",
       "keywords": [
          "telegram",
-         "anime",
+         "astronomy",
          "group",
          "manager",
-         "Saitama"
+         "Park"
       ],   
-   "repository": "https://github.com/AnimeKaizoku/SaitamaRobot",
+   "repository": "https://github.com/parkseojoon2005/Aurora-v2.0",
    "addons": [
       {
          "options": {
@@ -19,7 +19,7 @@
    ],
    "env": {
       "TOKEN": {
-         "description": "Your bot token. Get one from @BotFather duh",
+         "description": "Your bot token. Get one from @BotFather duh And Copy It in here",
          "required": true,
          "value": ""
       },
