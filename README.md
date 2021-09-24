@@ -5,7 +5,7 @@
 # Aurora-v2.0 (Nayeon)
 
 <p align="center">
-- x -|│  “	│| - x -
+- x -|│  “An Astronomy Themed Bot (Nayeon)"	│| - x -
 </p>
 
 <p align="center">
