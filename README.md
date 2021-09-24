@@ -51,11 +51,11 @@
 
 Aurora is a simple Bot In Telegram That Help For Astronomy Groups.Spacially Andromeda Telescopes , purely Astronomy  themed.
 
-## Depoly To Heroku  
+## Deploy  To Heroku  
     
 [![Deploy](https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku)](https://heroku.com/deploy?template=https://github.com/parkseojoon2005/Aurora-v2.0)  
 
-## Deploy To Railway 
+## Deploy To Railway (Recommended )
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app)
 
