@@ -10,7 +10,7 @@
 
 
 <p align="center">
-- x -|│  “An Astronomy Themed Bot (Nayeon)"	│| - x -
+- x -|│  “An Astronomy Themed Bot "	│| - x -
 </p>
 
 <p align="center">
@@ -51,8 +51,8 @@ Aurora is a simple Bot In Telegram That Help For Astronomy Groups.Spacially Andr
     
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/parkseojoon2005/Aurora-v2.0)  
 
-* Bot Link:  <a href="https://t.me/Aurorav2.0_Bot" alt="Saitama Robot"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-SaitamaRobot-blue" /> </a>
-* News channel: <a  href="https://t.me/Hermione_Updates" alt="One Punch Updates"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-One%20Punch%20Updates-9cf" /> </a>
+* Bot Link:  <a href="https://t.me/Aurorav2.0_Bot" alt="Saitama Robot"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-Aurora-blue" /> </a>
+* News channel: <a  href="https://t.me/Hermione_Updates" alt="One Punch Updates"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-Her%20Aurora%20Updates-9cf" /> </a>
 
 Should you be forking this repo then do not forget to star it - <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Parkseojoon2005/Aurora?color=white&label=%F0%9F%8C%9F%20star">
 
