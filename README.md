@@ -1,8 +1,13 @@
+# Aurora-v2.0 
+
+
+
+
 <p align="center">
-  <img src="https://telegra.ph/file/0191a43f4f98af796f07a.jpg">
+  <img src="https://telegra.ph/file/0e50e6e9640a4b64ee1be.jpg">
 </p>
 
-# Aurora-v2.0 (Nayeon)
+
 
 <p align="center">
 - x -|│  “An Astronomy Themed Bot (Nayeon)"	│| - x -
@@ -40,7 +45,7 @@
 
 
 
-Saitama is a simple one-punch solution to your group management needs and has become one of the most prominently kanged bots around telegram, purely weeab themed.
+Aurora is a simple Bot In Telegram That Help For Astronomy Groups.Spacially Andromeda Telescopes , purely Astronomy  themed.
 
 ## Depoly To Heroku  
     
