@@ -49,7 +49,7 @@ Aurora is a simple Bot In Telegram That Help For Astronomy Groups.Spacially Andr
 
 ## Depoly To Heroku  
     
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/parkseojoon2005/Aurora-v2.0)  
+[![Deploy](https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku)](https://heroku.com/deploy?template=https://github.com/parkseojoon2005/Aurora-v2.0)  
 
 ## Deploy To Railway 
 
